@@ -25,5 +25,7 @@ There are many experiences gained during the development process of the project.
 
 1.4 Final Result
 As a result of the project, tweets are pulled from Twitter and passed through an artificial intelligence model to determine which are funny and add them to the database. When the user wants to create a video, the video is created using these funny tweets. Additionally, users can test on the interface whether a sentence is funny or not, and this is visually reported to the user.
-![image](https://user-images.githubusercontent.com/92929045/236858802-755260f3-538b-4d20-baa4-2c18110501e2.png)
+
+![nn-github-readme](https://user-images.githubusercontent.com/92929045/236858938-ddbb50db-77a4-44f5-a3fe-44f6b4253b21.png)
+
 
